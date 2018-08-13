@@ -1,0 +1,7 @@
+﻿  client.cpp
+d:\תקשורת\client\client\client.cpp(18): warning C4101: 'send_m': unreferenced local variable
+d:\תקשורת\client\client\client.cpp(19): warning C4101: 'server_reply': unreferenced local variable
+d:\תקשורת\client\client\client.cpp(19): warning C4101: 'FN': unreferenced local variable
+d:\תקשורת\client\client\client.cpp(17): warning C4101: 'messagey': unreferenced local variable
+d:\תקשורת\client\client\client.cpp(20): warning C4101: 'num': unreferenced local variable
+  client.vcxproj -> D:\תקשורת\client\Debug\client.exe
