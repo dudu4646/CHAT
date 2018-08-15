@@ -21,6 +21,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+db.lock
 
 # Visual Studio 2015 cache/options directory
 .vs/
@@ -259,3 +260,20 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+*_BuiltData.uasset
+BuildingEscape/Content/StarterContent/
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+*.VC.opendb

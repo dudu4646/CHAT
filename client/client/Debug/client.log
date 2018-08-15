@@ -1,6 +1,6 @@
 ﻿  Client.cpp
-d:\תקשורת\chat\client\client\client.cpp(18): warning C4101: 'send_m': unreferenced local variable
-d:\תקשורת\chat\client\client\client.cpp(19): warning C4101: 'FN': unreferenced local variable
-d:\תקשורת\chat\client\client\client.cpp(17): warning C4101: 'messagey': unreferenced local variable
-d:\תקשורת\chat\client\client\client.cpp(20): warning C4101: 'num': unreferenced local variable
-  Client.vcxproj -> D:\תקשורת\Chat\Client\Debug\Client.exe
+c:\users\pc\source\repos\chat\client\client\client.cpp(18): warning C4101: 'send_m': unreferenced local variable
+c:\users\pc\source\repos\chat\client\client\client.cpp(19): warning C4101: 'FN': unreferenced local variable
+c:\users\pc\source\repos\chat\client\client\client.cpp(17): warning C4101: 'messagey': unreferenced local variable
+c:\users\pc\source\repos\chat\client\client\client.cpp(20): warning C4101: 'num': unreferenced local variable
+  Client.vcxproj -> C:\Users\PC\source\repos\CHAT\Client\Debug\Client.exe
