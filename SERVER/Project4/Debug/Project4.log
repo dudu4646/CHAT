@@ -1,5 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  stdafx.cpp
-  Project4.cpp
-d:\github\chat\server\project4\project4.cpp(143): warning C4018: '<': signed/unsigned mismatch
-  Project4.vcxproj -> D:\GitHub\CHAT\SERVER\Debug\CHAT_SERVER.exe
