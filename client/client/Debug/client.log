@@ -1,6 +1,16 @@
-﻿  Client.cpp
-c:\users\pc\source\repos\chat\client\client\client.cpp(18): warning C4101: 'send_m': unreferenced local variable
-c:\users\pc\source\repos\chat\client\client\client.cpp(19): warning C4101: 'FN': unreferenced local variable
-c:\users\pc\source\repos\chat\client\client\client.cpp(17): warning C4101: 'messagey': unreferenced local variable
-c:\users\pc\source\repos\chat\client\client\client.cpp(20): warning C4101: 'num': unreferenced local variable
-  Client.vcxproj -> C:\Users\PC\source\repos\CHAT\Client\Debug\Client.exe
+﻿  stdafx.cpp
+  Client.cpp
+d:\github\chat\client\client\client.cpp(84): warning C4101: 'temp': unreferenced local variable
+d:\github\chat\client\client\client.cpp(238): warning C4101: 'send_m': unreferenced local variable
+d:\github\chat\client\client\client.cpp(239): warning C4101: 'FN': unreferenced local variable
+d:\github\chat\client\client\client.cpp(237): warning C4101: 'messagey': unreferenced local variable
+d:\github\chat\client\client\client.cpp(240): warning C4101: 'num': unreferenced local variable
+d:\github\chat\client\client\client.cpp(128): warning C4715: 'UP': not all control paths return a value
+d:\github\chat\client\client\client.cpp(134): warning C4715: 'DOWN': not all control paths return a value
+d:\github\chat\client\client\client.cpp(140): warning C4715: 'RIGHT': not all control paths return a value
+d:\github\chat\client\client\client.cpp(146): warning C4715: 'LEFT': not all control paths return a value
+d:\github\chat\client\client\client.cpp(152): warning C4715: 'UP_LEFT': not all control paths return a value
+d:\github\chat\client\client\client.cpp(164): warning C4715: 'DOWN_LEFT': not all control paths return a value
+d:\github\chat\client\client\client.cpp(158): warning C4715: 'UP_RIGHT': not all control paths return a value
+d:\github\chat\client\client\client.cpp(170): warning C4715: 'DOWN_RIGHT': not all control paths return a value
+  Client.vcxproj -> D:\GitHub\CHAT\Client\Debug\Client.exe
