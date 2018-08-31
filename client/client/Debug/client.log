@@ -12,8 +12,8 @@ d:\github\chat\client\client\client.cpp(157): warning C4715: 'UP': not all contr
 d:\github\chat\client\client\client.cpp(163): warning C4715: 'DOWN': not all control paths return a value
 d:\github\chat\client\client\client.cpp(169): warning C4715: 'RIGHT': not all control paths return a value
 d:\github\chat\client\client\client.cpp(175): warning C4715: 'LEFT': not all control paths return a value
-d:\github\chat\client\client\client.cpp(187): warning C4715: 'UP_RIGHT': not all control paths return a value
 d:\github\chat\client\client\client.cpp(181): warning C4715: 'UP_LEFT': not all control paths return a value
+d:\github\chat\client\client\client.cpp(187): warning C4715: 'UP_RIGHT': not all control paths return a value
 d:\github\chat\client\client\client.cpp(193): warning C4715: 'DOWN_LEFT': not all control paths return a value
 d:\github\chat\client\client\client.cpp(199): warning C4715: 'DOWN_RIGHT': not all control paths return a value
   Client.vcxproj -> D:\GitHub\CHAT\Client\Debug\Client.exe
