@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿  Client.cpp
 d:\github\chat\client\client\client.cpp(106): warning C4101: 'temp': unreferenced local variable
 d:\github\chat\client\client\client.cpp(133): warning C4101: 'recv_size': unreferenced local variable
@@ -15,3 +16,6 @@ d:\github\chat\client\client\client.cpp(181): warning C4715: 'UP_RIGHT': not all
 d:\github\chat\client\client\client.cpp(187): warning C4715: 'DOWN_LEFT': not all control paths return a value
 d:\github\chat\client\client\client.cpp(193): warning C4715: 'DOWN_RIGHT': not all control paths return a value
   Client.vcxproj -> D:\GitHub\CHAT\Client\Debug\Client.exe
+=======
+﻿  Client.vcxproj -> C:\Users\PC\source\repos\CHAT\Client\Debug\Client.exe
+>>>>>>> 601591a056d92a1d81c462325452458b87287e11
