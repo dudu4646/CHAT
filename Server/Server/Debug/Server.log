@@ -1,3 +1,1 @@
-﻿  Server.cpp
-d:\github\chat\server\server\server.cpp(62): warning C4101: 'message': unreferenced local variable
-  Server.vcxproj -> D:\GitHub\CHAT\Server\Debug\Server.exe
+﻿  Server.vcxproj -> D:\GitHub\CHAT\Server\Debug\Server.exe
